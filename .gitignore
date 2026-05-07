@@ -26,7 +26,6 @@ test/*
 unittest/*
 *.txt
 *.ot
-thirdparty/*
 build/*
 cache/*
 debug/*
